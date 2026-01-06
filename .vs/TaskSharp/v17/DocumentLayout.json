@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\C#\\Project\\TaskSharp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AECF7DC-3D66-44CE-AC12-F065EA5E4750}|test\\TaskSharp.Domain.Tests\\TaskSharp.Domain.Tests.csproj|d:\\c#\\project\\tasksharp\\test\\tasksharp.domain.tests\\entities\\taskitemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AECF7DC-3D66-44CE-AC12-F065EA5E4750}|test\\TaskSharp.Domain.Tests\\TaskSharp.Domain.Tests.csproj|solutionrelative:test\\tasksharp.domain.tests\\entities\\taskitemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37677908-6F11-45D3-81D8-158AD2D071D2}|src\\TaskSharp.Domain\\TaskSharp.Domain.csproj|d:\\c#\\project\\tasksharp\\src\\tasksharp.domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37677908-6F11-45D3-81D8-158AD2D071D2}|src\\TaskSharp.Domain\\TaskSharp.Domain.csproj|solutionrelative:src\\tasksharp.domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37677908-6F11-45D3-81D8-158AD2D071D2}|src\\TaskSharp.Domain\\TaskSharp.Domain.csproj|d:\\c#\\project\\tasksharp\\src\\tasksharp.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37677908-6F11-45D3-81D8-158AD2D071D2}|src\\TaskSharp.Domain\\TaskSharp.Domain.csproj|solutionrelative:src\\tasksharp.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37677908-6F11-45D3-81D8-158AD2D071D2}|src\\TaskSharp.Domain\\TaskSharp.Domain.csproj|d:\\c#\\project\\tasksharp\\src\\tasksharp.domain\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37677908-6F11-45D3-81D8-158AD2D071D2}|src\\TaskSharp.Domain\\TaskSharp.Domain.csproj|solutionrelative:src\\tasksharp.domain\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AECF7DC-3D66-44CE-AC12-F065EA5E4750}|test\\TaskSharp.Domain.Tests\\TaskSharp.Domain.Tests.csproj|d:\\c#\\project\\tasksharp\\test\\tasksharp.domain.tests\\entities\\projecttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AECF7DC-3D66-44CE-AC12-F065EA5E4750}|test\\TaskSharp.Domain.Tests\\TaskSharp.Domain.Tests.csproj|solutionrelative:test\\tasksharp.domain.tests\\entities\\projecttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37677908-6F11-45D3-81D8-158AD2D071D2}|src\\TaskSharp.Domain\\TaskSharp.Domain.csproj|d:\\c#\\project\\tasksharp\\src\\tasksharp.domain\\entities\\projectmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37677908-6F11-45D3-81D8-158AD2D071D2}|src\\TaskSharp.Domain\\TaskSharp.Domain.csproj|solutionrelative:src\\tasksharp.domain\\entities\\projectmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37677908-6F11-45D3-81D8-158AD2D071D2}|src\\TaskSharp.Domain\\TaskSharp.Domain.csproj|d:\\c#\\project\\tasksharp\\src\\tasksharp.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37677908-6F11-45D3-81D8-158AD2D071D2}|src\\TaskSharp.Domain\\TaskSharp.Domain.csproj|solutionrelative:src\\tasksharp.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AECF7DC-3D66-44CE-AC12-F065EA5E4750}|test\\TaskSharp.Domain.Tests\\TaskSharp.Domain.Tests.csproj|d:\\c#\\project\\tasksharp\\test\\tasksharp.domain.tests\\entities\\usertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AECF7DC-3D66-44CE-AC12-F065EA5E4750}|test\\TaskSharp.Domain.Tests\\TaskSharp.Domain.Tests.csproj|solutionrelative:test\\tasksharp.domain.tests\\entities\\usertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37677908-6F11-45D3-81D8-158AD2D071D2}|src\\TaskSharp.Domain\\TaskSharp.Domain.csproj|d:\\c#\\project\\tasksharp\\src\\tasksharp.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37677908-6F11-45D3-81D8-158AD2D071D2}|src\\TaskSharp.Domain\\TaskSharp.Domain.csproj|solutionrelative:src\\tasksharp.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +59,116 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskItemTests.cs",
+              "DocumentMoniker": "D:\\C#\\Project\\TaskSharp\\test\\TaskSharp.Domain.Tests\\Entities\\TaskItemTests.cs",
+              "RelativeDocumentMoniker": "test\\TaskSharp.Domain.Tests\\Entities\\TaskItemTests.cs",
+              "ToolTip": "D:\\C#\\Project\\TaskSharp\\test\\TaskSharp.Domain.Tests\\Entities\\TaskItemTests.cs",
+              "RelativeToolTip": "test\\TaskSharp.Domain.Tests\\Entities\\TaskItemTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T09:42:11.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "D:\\C#\\Project\\TaskSharp\\src\\TaskSharp.Domain\\Entities\\TaskItem.cs",
+              "RelativeDocumentMoniker": "src\\TaskSharp.Domain\\Entities\\TaskItem.cs",
+              "ToolTip": "D:\\C#\\Project\\TaskSharp\\src\\TaskSharp.Domain\\Entities\\TaskItem.cs",
+              "RelativeToolTip": "src\\TaskSharp.Domain\\Entities\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T09:10:25.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectTests.cs",
+              "DocumentMoniker": "D:\\C#\\Project\\TaskSharp\\test\\TaskSharp.Domain.Tests\\Entities\\ProjectTests.cs",
+              "RelativeDocumentMoniker": "test\\TaskSharp.Domain.Tests\\Entities\\ProjectTests.cs",
+              "ToolTip": "D:\\C#\\Project\\TaskSharp\\test\\TaskSharp.Domain.Tests\\Entities\\ProjectTests.cs",
+              "RelativeToolTip": "test\\TaskSharp.Domain.Tests\\Entities\\ProjectTests.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAgwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:54:16.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectMember.cs",
+              "DocumentMoniker": "D:\\C#\\Project\\TaskSharp\\src\\TaskSharp.Domain\\Entities\\ProjectMember.cs",
+              "RelativeDocumentMoniker": "src\\TaskSharp.Domain\\Entities\\ProjectMember.cs",
+              "ToolTip": "D:\\C#\\Project\\TaskSharp\\src\\TaskSharp.Domain\\Entities\\ProjectMember.cs",
+              "RelativeToolTip": "src\\TaskSharp.Domain\\Entities\\ProjectMember.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA5wBMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T08:17:59.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\C#\\Project\\TaskSharp\\src\\TaskSharp.Domain\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "src\\TaskSharp.Domain\\Entities\\Project.cs",
+              "ToolTip": "D:\\C#\\Project\\TaskSharp\\src\\TaskSharp.Domain\\Entities\\Project.cs",
+              "RelativeToolTip": "src\\TaskSharp.Domain\\Entities\\Project.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T07:45:32.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "D:\\C#\\Project\\TaskSharp\\src\\TaskSharp.Domain\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "src\\TaskSharp.Domain\\Exceptions\\DomainException.cs",
+              "ToolTip": "D:\\C#\\Project\\TaskSharp\\src\\TaskSharp.Domain\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "src\\TaskSharp.Domain\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:46:08.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserTests.cs",
+              "DocumentMoniker": "D:\\C#\\Project\\TaskSharp\\test\\TaskSharp.Domain.Tests\\Entities\\UserTests.cs",
+              "RelativeDocumentMoniker": "test\\TaskSharp.Domain.Tests\\Entities\\UserTests.cs",
+              "ToolTip": "D:\\C#\\Project\\TaskSharp\\test\\TaskSharp.Domain.Tests\\Entities\\UserTests.cs",
+              "RelativeToolTip": "test\\TaskSharp.Domain.Tests\\Entities\\UserTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:13:01.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\C#\\Project\\TaskSharp\\src\\TaskSharp.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\TaskSharp.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\C#\\Project\\TaskSharp\\src\\TaskSharp.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "src\\TaskSharp.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:05:23.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\C#\\Project\\TaskSharp\\src\\TaskSharp.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "src\\TaskSharp.Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\C#\\Project\\TaskSharp\\src\\TaskSharp.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "src\\TaskSharp.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAxwEIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:04:34.283Z"
             }
           ]
         }
